@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align='center'>
-  Software Quality Assurance Tester 💡 | Automated Testing 💻
+  Software Quality Assurance Tester 🎯 | Automated Testing 💻
 </h4>
 
 <!--
